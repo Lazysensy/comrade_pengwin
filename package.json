@@ -70,7 +70,7 @@
     "whatwg-encoding": "^1.0.5",
     "whatwg-mimetype": "^2.3.0",
     "whatwg-url": "^8.4.0",
-    "ws": "^7.4.2",
+    "ws": "^7.4.6",
     "xml-name-validator": "^3.0.0",
     "youtube-sr": "^2.0.4",
     "yt": "^0.3.2",
